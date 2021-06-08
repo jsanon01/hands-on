@@ -3,7 +3,7 @@
 
 ## Postgresql
 
-I have installed Postgresql from the Linux terminal
+I have installed Postgresql from the Linux terminal and run some queries.
 
 ![Postgresql](https://github.com/jsanon01/hands-on/blob/main/images/postgresql.png)
 
@@ -22,6 +22,7 @@ I have also used Jenkins on AWS console using EC2 instance.
 
 Here is a list of container images I have been using ...
 
+![Docker](https://github.com/jsanon01/hands-on/blob/main/images/docker.png)
 
 ## NGINX
 
