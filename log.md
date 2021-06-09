@@ -7,6 +7,14 @@ I have installed Postgresql from the Linux terminal and run some queries.
 
 ![Postgresql](https://github.com/jsanon01/hands-on/blob/main/images/postgresql.png)
 
+## Kubernetes
+
+Minikube runs on virtualization on a local machine.
+
+![minikube-1](https://github.com/jsanon01/hands-on/blob/main/images/minikube-1.png)
+
+![minikube-2](https://github.com/jsanon01/hands-on/blob/main/images/minikube-2.png)
+
 ## Terraform
 
 I have used Terraform to install AWS services
